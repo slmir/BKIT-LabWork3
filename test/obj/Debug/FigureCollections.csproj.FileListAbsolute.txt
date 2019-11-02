@@ -1,0 +1,7 @@
+C:\Git\ЛР1-3\Lab1\test\obj\Debug\FigureCollections.csproj.CoreCompileInputs.cache
+C:\Git\ЛР1-3\Lab1\test\bin\Debug\test.exe.config
+C:\Git\ЛР1-3\Lab1\test\bin\Debug\test.exe
+C:\Git\ЛР1-3\Lab1\test\bin\Debug\test.pdb
+C:\Git\ЛР1-3\Lab1\test\obj\Debug\test.exe
+C:\Git\ЛР1-3\Lab1\test\obj\Debug\test.pdb
+C:\Git\ЛР1-3\Lab1\test\obj\Debug\FigureCollections.csprojAssemblyReference.cache

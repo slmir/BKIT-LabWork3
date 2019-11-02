@@ -1,0 +1,7 @@
+C:\Git\ttest\Example_Vager-Fisher\bin\Debug\Example_Vager-Fisher.exe.config
+C:\Git\ttest\Example_Vager-Fisher\bin\Debug\Example_Vager-Fisher.exe
+C:\Git\ttest\Example_Vager-Fisher\bin\Debug\Example_Vager-Fisher.pdb
+C:\Git\ttest\Example_Vager-Fisher\obj\Debug\Example_Vager-Fisher.csprojAssemblyReference.cache
+C:\Git\ttest\Example_Vager-Fisher\obj\Debug\Example_Vager-Fisher.csproj.CoreCompileInputs.cache
+C:\Git\ttest\Example_Vager-Fisher\obj\Debug\Example_Vager-Fisher.exe
+C:\Git\ttest\Example_Vager-Fisher\obj\Debug\Example_Vager-Fisher.pdb

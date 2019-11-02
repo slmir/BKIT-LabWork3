@@ -1,0 +1,28 @@
+C:\Git\ЛР1-3\Lab1\test\bin\Debug\test.exe.config
+C:\Git\ЛР1-3\Lab1\test\bin\Debug\test.exe
+C:\Git\ЛР1-3\Lab1\test\bin\Debug\test.pdb
+C:\Git\ЛР1-3\Lab1\test\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Git\ЛР1-3\Lab1\test\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Git\ЛР1-3\Lab1\test\obj\Debug\test.exe
+C:\Git\ЛР1-3\Lab1\test\obj\Debug\test.pdb
+C:\Git\ttest\test\bin\Debug\test.exe.config
+C:\Git\ttest\test\bin\Debug\test.exe
+C:\Git\ttest\test\bin\Debug\test.pdb
+C:\Git\ttest\test\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Git\ttest\test\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Git\ttest\test\obj\Debug\test.exe
+C:\Git\ttest\test\obj\Debug\test.pdb
+C:\Git\ЛР3 ласт\test\bin\Debug\test.exe.config
+C:\Git\ЛР3 ласт\test\bin\Debug\test.exe
+C:\Git\ЛР3 ласт\test\bin\Debug\test.pdb
+C:\Git\ЛР3 ласт\test\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Git\ЛР3 ласт\test\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Git\ЛР3 ласт\test\obj\Debug\test.exe
+C:\Git\ЛР3 ласт\test\obj\Debug\test.pdb
+C:\Git\ЛР3(1)\test\bin\Debug\test.exe.config
+C:\Git\ЛР3(1)\test\bin\Debug\test.exe
+C:\Git\ЛР3(1)\test\bin\Debug\test.pdb
+C:\Git\ЛР3(1)\test\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Git\ЛР3(1)\test\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Git\ЛР3(1)\test\obj\Debug\test.exe
+C:\Git\ЛР3(1)\test\obj\Debug\test.pdb
